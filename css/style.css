@@ -1,0 +1,45 @@
+:root {
+  --main-font: 'Mochiy Pop P One', sans-serif;
+}
+
+body{
+  background-color: #F5EEDC;
+}
+
+footer {
+    text-align: center;
+    background-color: #C1DEAE;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+    background-color: #C1DEAE;
+    padding: 30px;
+    font-family: var(--main-font);
+}
+
+img {
+    width: 70%;
+    border-radius: 50%;
+    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+li {
+   line-height: 1.5;
+}
+
+.fact_list{
+  font-family: var(--main-font);
+}
+
+.kenai {
+    margin-left: 50%;
+    transform: translate(-50%, 0);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 1.5em;
+}
